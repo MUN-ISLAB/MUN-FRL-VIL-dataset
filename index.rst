@@ -37,7 +37,7 @@ Downloads
    :header: Dataset name,Size [GB],Length [m],Duration [s],ROS bag
    :widths: 20,10,10,10,10
    
-   quarry1,27.2,357,231,`link <https://drive.google.com/drive/folders/1-cN8PKBhh5REuKsP69V0s5cf-PcBO_eR?usp/>`_
+   quarry1,27.2,357,231,link
    quarry2,79.8,807,675,link
    lighthouse,89.9,890,756,link 
    bell412_dataset1,45.9,1709,432,link
