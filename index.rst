@@ -26,7 +26,7 @@ Available Data
 * Monocular images - downward facing and forward facing cameras
 * IMU measurements - angular rate, accleration and magnetic field
 * LiDAR pointclouds - downward facing  scanning the ground  
-* RTK-GNSS position measurements
+* RTK-GNSS measurements - positions
 * Post processed kenematic (PPK) ground truth measurements
  
 
