@@ -2,14 +2,27 @@
 Sensor Suite
 ============
 
-Platform
-++++++++
-In our VILOAM datasets we have used two platforms to carry the payload unit. Small scale aerial platform is chosen as DJI M600 hexacopter drone.
-Full scale aerial platform is a Bell 412 helicopter.
+Interchagable Payload Unit
+++++++++++++++++++++++++++
+Our sensing suite is desinged as an interchagable playload unit between platforms. The payload unit is capable of
+running visual-inertial-LiDAR odometery and mapping algorithms while collecting data. 
 
-IMU
-++++++++
+.. image:: /images/payload.jpg
+   :width: 100%
 
+Platforms
++++++++++
+
+.. figure:: /images/platforms.jpg
+      :width: 99%
+      :align: center
+      :alt: Caption for first image
+
+      The payload is interchagably mounted between **Bell 412 Advanced Research Systems Aircraft (ASRA)** 
+      and a **DJI M600 hexacopter drone**. 
+
+Sensors
++++++++
 
 Cameras
 ++++++++
