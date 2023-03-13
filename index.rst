@@ -23,13 +23,24 @@ The two cameras, IMU, LiDAR and GNSS receivers are hardware time-synchronized.
 
 Available Data
 --------------
+Images
+++++++
+* FLIR BFS-U3-16S2M-BD - Nadir view [global shutter, 1140x1080, monochrome (Mono8) and color (RGB8), 20Hz]
+* FLIR BFS-PGE-04S2C-CS - Forward view [global shutter, 720x540, monochrome (Mono8) and color (RGB8), 20Hz]
+  
+IMU Measurements
+++++++++++++++++
+* Xsens MTi-30 IMU - [angular rate, accleration - 400Hz, magnetic field - 100Hz]
 
-* Monocular images - downward facing and forward facing cameras
-* IMU measurements - angular rate, accleration and magnetic field
-* LiDAR pointclouds - downward facing  scanning the ground  
-* RTK-GNSS measurements - positions
-* Post processed kenematic (PPK) ground truth measurements
- 
+Pointclouds
++++++++++++
+* Velodyne VLP-16 LiDAR - Downward facing [pointclouds, 360° horizontal, 30° vertical FOV, 10Hz] 
+
+Ground-Truth
+++++++++++++
+* simpleRTK2B RTK-GNSS receriver - [3D position, 5Hz]
+* Post processed kenematic (PPK) ground truth - [3D position, 5Hz]
+
 
 
 Downloads 
@@ -62,5 +73,5 @@ Lisence
    :caption: Dataset Overview
 
    sensors
-   ground truth
    Calibration
+   ground truth

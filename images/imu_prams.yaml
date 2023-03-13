@@ -1,0 +1,6 @@
+#IMU Parameters     
+acc_n: 0.08         # accelerometer measurement noise standard deviation. 
+gyr_n: 0.004        # gyroscope measurement noise standard deviation.     
+acc_w: 0.00004      # accelerometer bias random work noise standard deviation.  
+gyr_w: 0.0001       # gyroscope bias random work noise standard deviation.     
+g_norm: 9.803       # gravity magnitude

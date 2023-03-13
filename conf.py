@@ -13,10 +13,16 @@ author = 'Ravindu Thalagala'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['sphinx.ext.imgmath']
+extensions = ['sphinx.ext.imgmath','sphinx.ext.mathjax']
+mathjax_config = {
+    'displayAlign': 'left'
+}
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+
+from sphinx.ext import imgconverter
+imgconverter.default_format = 'png'
 
 
 
@@ -25,3 +31,4 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+
