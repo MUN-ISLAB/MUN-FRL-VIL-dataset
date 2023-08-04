@@ -49,15 +49,15 @@ Downloads
    :header: Dataset name,Size [GB],Length [m],Duration [s],ROS bag
    :widths: 20,10,10,10,10
    
-   quarry1,27.2,357,231,link
-   quarry2,79.8,807,675,link
-   lighthouse,89.9,890,756,link 
-   bell412_dataset1,45.9,1709,432,link
-   bell412_dataset2,45.8,x,436,link
-   bell412_dataset3,32.2,4336,308,link
-   bell412_dataset4,33.0,3656,316,link
-   bell412_dataset5,34.1,2138,483,link
-   bell412_dataset6,47.6,4938,520,link
+   quarry1,27.2,357,231, `link <https://drive.google.com/drive/folders/1-cN8PKBhh5REuKsP69V0s5cf-PcBO_eR?usp=sharing>`_
+   quarry2,79.8,807,675, `link <https://drive.google.com/drive/folders/1flDXDGoUXpRpQisJcKXBH-tTqEwC6UZg?usp=sharing>`_
+   lighthouse,89.9,890,756, `link <https://drive.google.com/drive/folders/1TzMhbG5N4v6L8JeI1XPaw9YCpwuj8jbI?usp=sharing>`_ 
+   bell412_dataset1,45.9,1709,432, `link <https://drive.google.com/drive/folders/18jG0_auUzMB6SNq_xTYDs2vzMYAebGIc?usp=sharing>`_
+   bell412_dataset2,45.8,x,436, `link <https://drive.google.com/drive/folders/1gql9_Wydn7Kyc7hC6V8BFugDDbYJgsTt?usp=sharing>`_
+   bell412_dataset3,32.2,4336,308, `link <https://drive.google.com/drive/folders/1CbSIJEn9XPw4c0HJrn3_gIDifTR6rhLx?usp=sharing>`_
+   bell412_dataset4,33.0,3656,316, `link <https://drive.google.com/drive/folders/1MjBBT7bxMADMQE5r0wTlVj4p17yT6Gjg?usp=sharing>`_
+   bell412_dataset5,34.1,2138,483, `link <https://drive.google.com/drive/folders/1tBHKwTXkFQTpK57eI5ySmqV6iw8SHFg5?usp=sharing>`_
+   bell412_dataset6,47.6,4938,520, `link <https://drive.google.com/drive/folders/1FONJtovVx__3iLLVI_ET8yheDF9-ZWqG?usp=sharing>`_
 
 Notes 
 -----
