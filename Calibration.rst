@@ -24,13 +24,19 @@ The values obtained are presented below.
 .. &\text{This is some text below the matrix.}
 .. \end{aligned}`
 
-.. literalinclude:: /images/cam_intrinsic.yaml
+For Bell412 Datasets: 
+
+.. literalinclude:: /images/cam_intrinsic_bell412.yaml
     :language: yaml
 
+For DJI M600 Datasets:
+
+.. literalinclude:: /images/cam_intrinsic_m600.yaml
+    :language: yaml
 
 IMU Intrinsic Calibration
 -------------------------
-The IMU parameters are given below. 
+The IMU parameters for both Bell412 and DJI M600 datasets are given below. 
 
 .. literalinclude:: /images/imu_prams.yaml
     :language: yaml
@@ -38,29 +44,40 @@ The IMU parameters are given below.
 
 Camera-IMU Extrinsic Calibration
 --------------------------------
-The camera-IMU transformation was found using Kalibr package. 
+The camera-IMU transformation was found using Kalibr package.
 
-The down camera :math:`T_{BCd}`
+For Bell412 Datasets: 
 
-.. literalinclude:: /images/T_BCd.yaml
+The down camera :math:`T_{BCd}` and front camera :math:`T_{BCf}`
+
+.. literalinclude:: /images/T_BC_bell412.yaml
     :language: yaml
 
-The front camera :math:`T_{BCf}`
+For DJI M600 Datasets:
 
-.. literalinclude:: /images/T_BCf.yaml
+The down camera :math:`T_{BCd}` and front camera :math:`T_{BCf}`
+
+ .. literalinclude:: /images/T_BC_m600.yaml
     :language: yaml
 
 Camera-LiDAR Extrinsic Calibration
 ----------------------------------
-Camera to LiDAR transfromation :math:`[T_{CL}]` was found using Matlab LiDAR calibrator toolbox
+Down camera to LiDAR transfromation :math:`[T_{CLd}]` was found using Matlab LiDAR calibrator toolbox
 and fine-tuned using manual realignment. 
 
-.. literalinclude:: /images/T_CL.yaml
+For Bell412 datasets:
+
+.. literalinclude:: /images/T_CL_bell412.yaml
+    :language: yaml
+
+For DJI M600 datasets: 
+
+.. literalinclude:: /images/T_CL_m600.yaml
     :language: yaml
 
 IMU-GNSS Extrinsic Calibration
 ------------------------------
-IMU to GNSS transformation :math:`[T_{BG}]` was found using the 3D CAD model. 
+IMU to GNSS transformation :math:`[T_{BG}]` for both Bell412 and DJI M600 datasets are given here. 
 
 .. literalinclude:: /images/T_BG.yaml
     :language: yaml

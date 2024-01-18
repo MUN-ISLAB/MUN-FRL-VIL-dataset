@@ -1,4 +1,4 @@
-cam0_T_lidar: !!opencv-matrix
+camDown_T_lidar: !!opencv-matrix
    rows: 4
    cols: 4
    dt: d
