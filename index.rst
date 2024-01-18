@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 MUN-FRL: Aerial Visual-Inertial-LiDAR Odometry and Mapping Dataset 
-===========================================================================
+===================================================================
 
 .. image:: /images/pl1.jpg
    :width: 23%
@@ -14,7 +14,7 @@ MUN-FRL: Aerial Visual-Inertial-LiDAR Odometry and Mapping Dataset
    :width: 39%
 .. image:: /images/bell_1_map.jpg
    :width: 98%
-
+   
 This webpage presents the visual-inertial-LiDAR (VIL) datasets collected by an interchagable payload unit atttached to 
 a Bell 412 Advanced Systems Research Helicopter (ASRA) helicoptor and a DJI M600 hexacoptor drone.
 The payload unit consists of two monocular global shutter cameras, a 3D LiDAR, an IMU, real-time kinematic (RTK) enabled 
