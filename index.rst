@@ -46,7 +46,7 @@ Ground-Truth
 Downloads 
 ---------
 .. csv-table:: 
-   :header: Dataset name,Size [GB],Length [m],Duration [s],ROS bag
+   :header: Dataset,Size [GB],Length [m],Duration [s],ROS bag
    :widths: 20,10,10,10,10
    
    quarry1,27.2,357,231, `link <https://drive.google.com/drive/folders/1-cN8PKBhh5REuKsP69V0s5cf-PcBO_eR?usp=sharing>`_
