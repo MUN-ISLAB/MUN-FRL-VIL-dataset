@@ -70,6 +70,6 @@ Lisence
    :hidden:
    :caption: Dataset Overview
 
-   source/sensors
-   source/Calibration
-   source/ground truth
+   sensors
+   Calibration
+   ground truth
