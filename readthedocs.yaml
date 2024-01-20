@@ -5,12 +5,13 @@ formats:
   - htmlzip
 
 sphinx:
-  configuration: docs/conf.py
+  builder: html
+  configuration: conf.py
   fail_on_warning: true
 
 python:
   install:
-    - requirements: docs/requirements.txt
+    - requirements: C:/Users/ravin/OneDrive/PhD/Journals and Conf papers/dataset_paper/website/python/requirements.txt
 
 build:
   os: ubuntu-22.04
