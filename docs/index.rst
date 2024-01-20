@@ -64,14 +64,12 @@ Notes
 
 Lisence
 -------
-   
-
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Dataset Overview
 
-   sensors
-   Calibration
-   ground truth
+   source/sensors
+   source/Calibration
+   source/ground truth

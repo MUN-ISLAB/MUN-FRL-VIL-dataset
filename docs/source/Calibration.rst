@@ -1,4 +1,3 @@
-
 Sensor Calibration
 ==================
 To assist in explaining the calibration process presented in this section, 

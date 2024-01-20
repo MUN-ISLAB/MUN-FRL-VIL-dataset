@@ -1,4 +1,3 @@
-
 Ground-Truth Data 
 =================
 
