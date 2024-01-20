@@ -59,8 +59,16 @@ Downloads
    bell412_dataset5,34.1,2138,483, `link <https://drive.google.com/drive/folders/1tBHKwTXkFQTpK57eI5ySmqV6iw8SHFg5?usp=sharing>`_
    bell412_dataset6,47.6,4938,520, `link <https://drive.google.com/drive/folders/1FONJtovVx__3iLLVI_ET8yheDF9-ZWqG?usp=sharing>`_
 
-Quick Tests
------------
+Quick Tests on State-of-the-art Algorithms
+------------------------------------------
+.. csv-table:: 
+   :header: Algorithm, Configuration files
+   :widths: 10,30
+
+   VINS-Fusion `[link] <https://github.com/HKUST-Aerial-Robotics/VINS-Fusion>`_ , work-in-progres
+   FAST-LVIO `[link] <https://github.com/hku-mars/FAST-LIVO>`_ , work-in-progres
+   LVI-SAM  `[link] <https://github.com/TixiaoShan/LVI-SAM>`_ , work-in-progres
+
 
 Lisence
 -------
