@@ -81,7 +81,7 @@ GNSS Base Station
 +++++++++++++++++
 Reach RS2 Based station is used during data capture. The real-time NMEA stream for the simpleRTK2B was provided by Reach RS2 base station.
 RS2 communicates with the ZED-F9P using a ultra high frequncy (UHF) LoRa radio. 
-The Reach RS2 also provides a post processed kinematics (PPK) solution upto 100km by logging data at 10Hz.
+The Reach RS2 also provides a post processed kinematics (PPK) solution upto 100km by logging data at 5Hz.
 
 Jetson Xavier AGX GPU
 ---------------------
